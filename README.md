@@ -1,5 +1,5 @@
 # BMI_Calculator
-
+![image](https://github.com/user-attachments/assets/283ac1e9-da0a-4d70-8397-59383e39478b)
 
 # Install
 ```sh
